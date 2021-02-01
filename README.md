@@ -1,0 +1,2 @@
+# typescript
+Typescriptのキャッチアップ用リポジトリです。
